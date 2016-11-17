@@ -92,3 +92,4 @@ function xmlToArray($xml, $options = array()) {
         $xml->getName() => $propertiesArray
     );
 }
+?>
